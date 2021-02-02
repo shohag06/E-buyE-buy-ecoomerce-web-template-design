@@ -1,0 +1,58 @@
+
+/*=========mainCSS=========*/
+*{
+margin: 0px;
+padding: :0px;
+outline: :0px;
+}
+
+ul,ol{
+
+	list-style: none;
+
+}
+img{
+
+	vertical-align: middle;
+
+}
+
+a{
+
+	text-decoration: none;
+}
+/*==========main-to-CSS========*/
+
+.test{
+	color: navy;
+	margin-left: 20px;
+}
+.topbar{
+	background-color: #444444;
+
+}
+
+.topbar-left .lag {
+    color: #DDDDDD;
+    padding: 5px 0px;
+    background: transparent;
+    font-size: 13px;
+    font-weight: 600px;
+    border: none;
+}
+.topbar-left .curency {
+    color: #DDDDDD;
+    background: transparent;
+    padding-left: : 20px;
+    font-size: 13px;
+    font-weight: 600px;
+    border: none;
+}
+.topbar-left .number {
+    color: #DDDDDD;
+    display: inline-block;
+    padding-left: : 20px;
+    font-size: 13px;
+    font-weight: 600px;
+    
+}
